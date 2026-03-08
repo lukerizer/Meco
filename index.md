@@ -10,8 +10,8 @@ Last updated: February 2025
 Within the meaning of the EU General Data Protection Regulation (GDPR / DSGVO):
 
 **Lukas Klingebiel**
-Gundolfstr. 11
-69120, Heidelberg, Germany
+Gerbodoweg 33
+69123, Heidelberg, Germany
 lukas.klingebiel+Meco@gmail.com
 
 ---
@@ -253,8 +253,8 @@ We may update this privacy policy from time to time. Changes will be reflected i
 For all privacy-related inquiries, requests, or complaints:
 
 **Lukas Klingebiel**
-Gundolfstr. 11
-69120, Heidelberg, Germany
+Gerbodoweg. 33
+69123, Heidelberg, Germany
 lukas.klingebiel+Meco@gmail.com
 
 ---
